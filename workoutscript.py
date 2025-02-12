@@ -1,3 +1,4 @@
+import random
 print (style.BOLD + 'Back and Chest Day' + style.END)
 print('_____________________________________\n')
 
